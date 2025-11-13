@@ -1,1 +1,1 @@
-print("Nima gap uka?")
+
